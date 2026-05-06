@@ -3,7 +3,7 @@
 
 ![alt text](https://github.com/therick0996/lucy/blob/master/00_images/00_KLE.jpg)
 
-![alt text](https://github.com/therick0996/lucy/blob/master/00_images/02_plate.jpg)
+![alt text](https://github.com/therick0996/lucy/blob/master/00_images/02_plate.png)
 
 ![alt text](https://github.com/therick0996/lucy/blob/master/00_images/01_pcb-QFN-0603.jpg)
 
