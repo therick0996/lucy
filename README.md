@@ -1,7 +1,7 @@
 # Lucy
 ![alt text](https://github.com/therick0996/lucy/blob/master/05_images/case.jpg)
 
-![alt text](https://github.com/therick0996/lucy/blob/master/05_images/00_KLE.jpg
+![alt text](https://github.com/therick0996/lucy/blob/master/05_images/00_KLE.jpg)
 
 ![alt text](https://github.com/therick0996/lucy/blob/master/05_images/02_plate.jpg)
 
