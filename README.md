@@ -34,11 +34,14 @@ No
 #### Choc support?
 No
 
-#### Encoder?
-Not anymore; they are a dead meme
-
 #### Flex cuts?
-See response to encoder
+No, they're a dead meme
+
+#### Encoder?
+See flex cuts
 
 #### Will you add any of these?
 No
+
+#### Why not?
+Because
