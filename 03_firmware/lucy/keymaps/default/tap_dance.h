@@ -88,7 +88,7 @@ void sum_finished(tap_dance_state_t *state, void *user_data) {
     switch (sum_state.state) {
       case TD_SINGLE_TAP: register_code(KC_EQL); break; // send =
       case TD_DOUBLE_TAP: SEND_STRING("=sum("); break; // =sum(
-      case TD_TRIPLE_TAP: SEND_STRING("=(xlookup("); break ; // send =xlookup(
+      case TD_TRIPLE_TAP: SEND_STRING("=subtotal(9,)"); break ; // send =subtotal
       default: break;
     }
 }
